@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello My World!")
+	fmt.Println("Hello My Great World!")
 }
 
 // ref: https://swaggo.github.io/swaggo.io/declarative_comments_format/general_api_info.html
